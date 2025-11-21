@@ -1,6 +1,8 @@
 
 # Course Registration System (Spring Boot + Spring Security - JWT)
 
+Frontend code link - https://github.com/Semmozhiselvan/COURSE-REGISTRATION-SYSTEM-FRONTEND_ONLY.git
+
 Features:
 - User registration (stored in H2 DB)
 - BCrypt password encoding
